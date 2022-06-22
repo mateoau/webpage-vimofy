@@ -1,0 +1,22 @@
+{
+  "name": "vimofy",
+  "version": "1.0.0",
+  "description": "webpage vimofy",
+  "main": "index.js",
+  "scripts": {
+    "test": "tes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateoau/webpage-vimofy.git"
+  },
+  "keywords": [
+    "vimofy"
+  ],
+  "author": "mateo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateoau/webpage-vimofy/issues"
+  },
+  "homepage": "https://github.com/mateoau/webpage-vimofy#readme"
+}
