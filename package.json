@@ -4,7 +4,7 @@
   "description": "webpage vimofy",
   "main": "index.js",
   "scripts": {
-    "test": "tes"
+    "test": "build"
   },
   "repository": {
     "type": "git",
