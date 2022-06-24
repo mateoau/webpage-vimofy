@@ -361,7 +361,7 @@ if($_POST)
         $output = json_encode(array('type'=>'error', 'text' => 'Could not send mail! Please check your PHP mail configuration.'));
         die($output);
     }else{
-        $output = json_encode(array('type'=>'message', 'text' => 'Hi '.$user_Name .' Thank you for contacting us.'));
+        $output = json_encode(array('type'=>'message', 'text' => 'Hola '.$user_Name .' Gracias por contactarnos.'));
         die($output);
     }
 }
